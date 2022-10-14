@@ -5,7 +5,7 @@ description = "Parse tracking numbers from couriers with no external dependencie
 authors = ["Jonathan Como <public@jcomo.me>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/jcomo/tracking-numbers"
+repository = "https://github.com/el-iot/tracking-numbers"
 keywords = ["tracking", "tracking numbers", "courier", "shipping"]
 
 [tool.poetry.dependencies]
